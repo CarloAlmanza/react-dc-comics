@@ -1,3 +1,21 @@
 .icona {
     width: 50px;
 }
+
+.sfondo {
+    background-image: url(/img/footer-bg.jpg);
+}
+
+.logo {
+    width: 400px;
+}
+
+.pin {
+    list-style: none;
+    margin-left: -30px;
+}
+
+.icons {
+    width: 40px;
+    padding: 10px;
+}

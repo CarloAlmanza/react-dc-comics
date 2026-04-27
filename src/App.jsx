@@ -1,3 +1,4 @@
+import Footer from "./components/footer"
 import Header from "./components/header"
 import Herosection from "./components/herosection"
 import Main from "./components/main"
@@ -8,6 +9,7 @@ function App() {
             <Header />
             <Main />
             <Herosection />
+            <Footer />
         </>
     )
 }
