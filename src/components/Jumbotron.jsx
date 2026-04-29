@@ -1,9 +1,7 @@
 function Jumbotron() {
     return (
-        <div className="container-fluid p-0">
-            <img src="/img/jumbotron.jpg" className="jumbotron w-100" />
-        </div>
-    )
+        <div className="jumbotron"></div>
+    );
 }
 
 export default Jumbotron;
